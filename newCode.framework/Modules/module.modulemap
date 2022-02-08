@@ -1,0 +1,11 @@
+framework module newCode {
+  umbrella header "newCode.h"
+
+  export *
+  module * { export * }
+}
+
+module newCode.Swift {
+    header "newCode-Swift.h"
+    requires objc
+}
