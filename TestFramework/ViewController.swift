@@ -16,10 +16,6 @@ class ViewController: UIViewController {
     let new = Service()
    debugPrint( new.check())
     
-    //test 
-    
   }
-
-
 }
 
