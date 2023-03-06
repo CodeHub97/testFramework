@@ -16,6 +16,7 @@
 		82ADA78527B2847100AEC4CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82ADA78327B2847100AEC4CF /* LaunchScreen.storyboard */; };
 		82ADA79727B284AF00AEC4CF /* newCode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 82ADA78D27B2847D00AEC4CF /* newCode.framework */; };
 		82ADA79827B284AF00AEC4CF /* newCode.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 82ADA78D27B2847D00AEC4CF /* newCode.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		D2C70BA929B6621C003AA812 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2C70BA829B6621C003AA812 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		82ADA78427B2847100AEC4CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82ADA78627B2847100AEC4CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82ADA78D27B2847D00AEC4CF /* newCode.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = newCode.framework; sourceTree = "<group>"; };
+		D2C70BA829B6621C003AA812 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				82ADA77827B2846F00AEC4CF /* AppDelegate.swift */,
 				82ADA77A27B2846F00AEC4CF /* SceneDelegate.swift */,
 				82ADA77C27B2846F00AEC4CF /* ViewController.swift */,
+				D2C70BA829B6621C003AA812 /* ThirdViewController.swift */,
 				5ED0635929AF76990037826E /* SecondViewController.swift */,
 				82ADA77E27B2846F00AEC4CF /* Main.storyboard */,
 				82ADA78127B2847100AEC4CF /* Assets.xcassets */,
@@ -162,6 +165,7 @@
 			files = (
 				5ED0635A29AF76990037826E /* SecondViewController.swift in Sources */,
 				82ADA77D27B2846F00AEC4CF /* ViewController.swift in Sources */,
+				D2C70BA929B6621C003AA812 /* ThirdViewController.swift in Sources */,
 				82ADA77927B2846F00AEC4CF /* AppDelegate.swift in Sources */,
 				82ADA77B27B2846F00AEC4CF /* SceneDelegate.swift in Sources */,
 			);
